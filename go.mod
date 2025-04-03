@@ -1,8 +1,6 @@
 module github.com/rjp/dovecot_exporter
 
-go 1.21
-
-toolchain go1.24.1
+go 1.18
 
 require (
 	github.com/alecthomas/kingpin/v2 v2.4.0
